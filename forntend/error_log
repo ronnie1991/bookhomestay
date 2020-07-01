@@ -1,0 +1,4 @@
+[25-Feb-2019 16:27:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method main::findAllFoodBlogs() in /home/fjn4fdymx17t/public_html/homestay/forntend/allFoodBlogs.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/fjn4fdymx17t/public_html/homestay/forntend/allFoodBlogs.php on line 54

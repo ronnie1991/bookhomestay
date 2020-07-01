@@ -1,0 +1,245 @@
+@media only screen and (max-width:1600px){
+      
+}
+@media only screen and (max-width:1366px){
+    .search-bar .custom-search-input-2 {
+        margin-top: 5px;
+    }
+}        
+@media only screen and (max-width:1199px){
+    /* .hero_single.version_2 .wrapper h3 {
+        margin-top: -20px;
+    } */
+    /* .tabslide .tab-text {
+        top: -420px;
+    } */
+    .places-slide .swiper-slide .places-slidertext h5 {
+        margin-bottom: 10px;
+    }
+    .places-slide .swiper-slide .places-slidertext p {
+        padding-top: 15px;
+        padding-right: 15px;
+    }
+    .searchmap-fixed.is_stuck {
+        top: 130px !important;
+    }
+    hr {
+        margin: 10px 0 10px 0;
+    }
+}
+
+@media only screen and (max-width:991px){
+    .search-dropdown {
+        height: 45px;
+    }
+    .search-dropdown .dropdown-toggle {
+      padding: .375rem 0rem;
+      font-size: 14px;
+    }
+    .t-datepicker {
+        height: 50px;
+    }
+    .custom-search-input-2 i {
+        line-height: 50px;
+    }
+    .t-check-in .t-date-info-title, .t-check-out .t-date-info-title {
+        top: 6px;
+        left: 0;
+        padding-left: 15px;
+    }
+    .t-date-check-in, .t-date-check-out {
+        font-size: 14px;
+      }
+      .t-check-in .t-date-info-title, .t-check-out .t-date-info-title {
+        font-size: 14px;
+      }
+    .t-date-check-in, .t-date-check-out {
+        cursor: pointer;
+        color: #767f86;
+        height: 50px;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 32px;
+      }
+      .custom-search-input-2 input {
+        font-size: 14px;
+      }
+    .panel-dropdown {
+        border-radius: 0;
+        height: 45px;
+        position: relative;
+        text-align: left;
+        padding: 10px 10px 10px 15px;
+    }
+    .panel-dropdown a {
+        font-size: 14px;
+    }
+    .custom-search-input-2 input[type='submit'] {
+        height: 45px;
+        border-radius: 0;
+        margin-top: 10px;
+    }
+    .tabslide .slide-tabbar {
+        position: absolute;
+        top: 20%;
+        left: 0;
+        right: 0;
+        z-index: 999;
+    }
+    .tabslide .searchbox {
+        position: absolute;
+        top: 13%;
+        left: 0;
+        right: 0;
+        z-index: 999;
+    }
+    .secondary_nav {
+        background: #fff;
+        border-bottom: 1px solid #ededed;
+        padding: 5px 0;
+    }
+    .secondary_nav ul li {
+        margin-right: 0px;
+        font-size: 16px;
+    }
+    .secondary_nav ul li a {
+        color: rgba(0, 0, 0, 0.5);
+        padding: 5px;
+    }
+    .holidayspot-sec .parent img {
+        -webkit-transition: 0.9s ease;
+        transition: 0.9s ease;
+        border-radius: 5px;
+        height: 140px;
+        width: 100%;
+        object-fit: cover;
+    }
+    .hero_single.version_2 .wrapper h3 {
+        font-size: 26px;
+    }
+    .explor-sec {
+        padding-top: 30px;
+        padding-bottom: 15px;
+   }
+    .location-sec {
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+    .holidayspot-sec {
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+    .homestays {
+        padding: 15px 0;
+    }
+    .trips-sec {
+        padding-bottom: 30px;
+    }
+    .places-slide .swiper-slide .places-slidertext h5 {
+        margin-bottom: 0px;
+    }
+    .places-slide .swiper-slide .places-slidertext p {
+        padding-top: 30px;
+        padding-right: 20px;
+    }
+}
+
+@media only screen and (max-width:767px){
+    .gallery-thumbs .swiper-slide p {
+        color: #fff;
+        font-size: 13px !important;
+        margin-right: 5px !important;
+    }
+    .gallery-thumbs .swiper-slide-thumb-active p {
+        padding-bottom: 14px !important;
+    }
+    /* .tabslide .tab-text {
+        top: -460px;
+    } */
+    .hero_single.version_2 .wrapper h3 {
+        font-size: 16px;
+    }
+    .search-bar .custom-search-input-2 {
+    margin-top: 130px;
+    margin-bottom: 0px;
+    }
+    .explor-sec .explor-media h5 {
+        font-size: 14px;
+    }
+    .places-slide .swiper-slide .places-slidertext {
+        width: 50%;
+    }
+    .places-slide .swiper-slide .places-slidertext h2 {
+        font-size: 18px;
+    }
+    .places-slide .swiper-slide .places-slidertext h5 {
+        font-size: 14px;
+    }
+    .places-slide .swiper-slide .places-slidertext p {
+        padding-top: 20px;
+        padding-right: 0px;
+        text-align: left;
+        font-size: 13px;
+    }
+    .places-slide .swiper-button-next:after, .places-slide .swiper-button-next:after {
+        font-size: 32px;
+      }
+      .places-slide .swiper-button-prev:after, .places-slide .swiper-button-prev:after {
+        font-size: 32px;
+    }
+}
+
+@media only screen and (max-width:575px){
+    .explor-sec .media {
+        display: block;
+    }
+    .explor-sec .explor-media img {
+        width: 100%;
+        height: 140px;
+        object-fit: cover;
+    }
+    .explor-sec .explor-media .media-body {
+        align-self: center;
+        padding: 15px 10px;
+    }
+    .tabslide .gallery-thumbs .swiper-slide p {
+        color: #fff;
+        font-size: 12px !important;
+        margin-right: 0px !important;
+        font-weight: 600;
+    }
+    .tabslide .gallery-thumbs .swiper-slide-thumb-active p {
+        border-bottom: 2px solid #fff !important;
+        padding-bottom: 15px !important;
+    }
+    .secondary_nav ul li a {
+        font-size: 14px;
+    }
+    .secondary_nav .filter-search li {
+        padding: 0;
+    }
+    .places-slide .swiper-slide .places-slidertext {
+        padding: 10px;
+    }
+    .places-slide .swiper-slide .places-slidertext h5 {
+        font-size: 13px;
+    }
+    .search-dropdown .dropdown-menu.multi-column {
+        min-width: 240px !important;
+        overflow-x: hidden;
+        overflow-y: auto;
+        height: 215px;
+      }
+      .search-dropdown .dropdown-menu.columns-3 {
+        min-width: 250px;
+      }
+      .search-dropdown .dropdown-menu li a {
+        text-align: left;
+    }
+}
+
+@media only screen and (max-width:479px){
+    /* .tabslide .tab-text {
+        top: -440px;
+    } */
+}
